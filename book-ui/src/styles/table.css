@@ -1,0 +1,8 @@
+table tr td,
+table tr th {
+  @apply h-12 font-bold;
+}
+
+table tr:hover *{
+  @apply bg-[#F4F4FB];
+}

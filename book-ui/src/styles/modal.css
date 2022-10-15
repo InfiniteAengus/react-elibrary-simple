@@ -1,0 +1,15 @@
+.ReactModal__Overlay {
+	@apply opacity-0 transition-all duration-200 ease-in-out;
+}
+
+.ReactModal__Overlay--after-open {
+	@apply opacity-100;
+}
+
+.ReactModal__Overlay--before-close {
+	@apply opacity-0;
+}
+
+.ReactModal__Overlay {
+	@apply backdrop-blur-sm !bg-[#0003] z-50;
+}

@@ -1,0 +1,7 @@
+button.filled {
+  @apply px-4 py-1.5 border-[1px] border-primary bg-primary text-white text-sm rounded;
+}
+
+button.outlined {
+  @apply px-6 py-1.5 border-[1px] border-primary bg-none text-primary transition-all duration-150 ease-in-out hover:bg-primary hover:text-white text-sm;
+}

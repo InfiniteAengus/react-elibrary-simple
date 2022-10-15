@@ -1,4 +1,4 @@
-# Client Billing Setup
+# Elibrary App Setup
 
 This is a test task for Digicert company
 _PUBLIC LIBRARY_
